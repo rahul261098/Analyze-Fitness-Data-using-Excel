@@ -1,6 +1,3 @@
-Sent by Copilot:
-Sure! Here’s a sample README file content for your project on analyzing Fitbit fitness tracker data using Excel:
-
 # Analyze Fitness Data using Excel
 
 ## Project Overview
